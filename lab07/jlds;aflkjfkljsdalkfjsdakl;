@@ -1,0 +1,6 @@
+Employee [name=Rak Piotr, age=21, fte=1.25, salaryFTE=4000.0, netSalary=4550.0, position=Kierowca]
+Employee [name=Nowak Jan, age=24, fte=1.0, salaryFTE=5200.0, netSalary=4732.0, position=Kierowca]
+Employee [name=Jach Ewa, age=27, fte=1.2, salaryFTE=6000.0, netSalary=5256.000000000001, position=Księgowa]
+Employee [name=Piech Anna, age=29, fte=0.7, salaryFTE=4800.0, netSalary=2452.8, position=Księgowa]
+Employee [name=Bąk Olga, age=29, fte=1.0, salaryFTE=6000.0, netSalary=4380.000000000001, position=Księgowa]
+Employee [name=Maj Jan, age=52, fte=0.5, salaryFTE=7000.0, netSalary=2555.0000000000005, position=Kierownik]
